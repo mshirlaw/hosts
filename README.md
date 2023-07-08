@@ -1,2 +1,3 @@
 # hosts
-Custom host files to blocked domains on pihole server
+
+Custom host files to add blocked domains to a pihole server. These will evolve over time.
